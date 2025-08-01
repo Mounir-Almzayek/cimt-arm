@@ -1,0 +1,2360 @@
+[
+  {
+    "id": "section-shoulder",
+    "name": "تمارين الكتف",
+    "imageUrl": "shoulder.png",
+    "stages": [
+      {
+        "id": "stage-fingers-beginner",
+        "difficulty": "beginner",
+        "sessions": [
+          {
+            "name": "الجلسة الأولى",
+            "parts": [
+              {
+                "name": "النصف الأول",
+                "exercises": [
+                  {
+                    "id": "warmup-shoulder-circles-1",
+                    "name": "لفات الكتف",
+                    "details": "تحريك الكتفين دائرة للأمام و للخلف (إحماء)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": "إحماء"
+                  },
+                  {
+                    "id": "shoulder-protraction-retraction-1",
+                    "name": "Shoulder Protraction/Retraction",
+                    "details": "تمرين دفع الكتفين للأمام ثم إرجاعهما للخلف للحد الأقصى للمفصل.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-shrugs-1",
+                    "name": "shoulder shrugs",
+                    "details": "رفع الكتفين باتجاه الأذن ثم خفض الكتفين باتجاه الأرض للحد الأقصى للمفصل.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_shrugs.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-flexion-ge-1",
+                    "name": "ثني الكتف بوضع إزالة الجاذبية",
+                    "details": "ضع يدك على الركبة الكوع مستقيم وادفع الذراع من الكتف سحباً على طول الفخذ للحد الأقصى للمفصل.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_flexion_ge.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "assisted-shoulder-flexion-1",
+                    "name": "Assisted shoulder flexion",
+                    "details": "يدعم الجانب المصاب باليد الأخرى من العضلة ثلاثية الرؤوس (فوق الكوع) وترفع لأعلى نقطة قدر الإمكان دون ازعاج أو ألم.",
+                    "requirements": [],
+                    "warnings": "انتبه يجب أن تعدل اتجاه الابهام للأعلى بعد حمله للذراع",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "assisted_shoulder_flexion.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "active-shoulder-flexion-1",
+                    "name": "Active shoulder flexion",
+                    "details": "نفس التمرين السابق ولكن دون دعم للذراع. انتبه أن تبقى الذراع مستقيمة.",
+                    "requirements": [],
+                    "warnings": "انتبه هل ترفع كتفك أثناء رفعك لذراعك؟ لا نريد ذلك",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "assisted_shoulder_flexion.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "النصف الثاني",
+                "exercises": [
+                  {
+                    "id": "stretch-dressing-stick-1",
+                    "name": "Stretch 1: Dressing stick",
+                    "details": "يلتقط عصا بكلتا اليدين ويدفع باليد السليمة اليد المصابة محاولا تمديد الكتف للخلف للحد الاقصى.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "stretch-doorway-1",
+                    "name": "Stretch 2: Doorway",
+                    "details": "تثبت اليد على اطار الباب\nعلى الحائط توضع دعامة حمراء\nعلى المتعالج تثبيت يده والتقدم للأمام حتى يصبح موازي للدعامة.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "stretch-corner-1",
+                    "name": "Stretch 3: corner",
+                    "details": "ثبت الكتف على زاوية حائط أو باب وادفعه للخلف للحد الاقصى.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة الثانية",
+            "parts": [
+              {
+                "name": "النصف الأول",
+                "exercises": [
+                  {
+                    "id": "warmup-shoulder-circles-2",
+                    "name": "لفات الكتف",
+                    "details": "تحريك الكتفين دائرة للأمام و للخلف (إحماء)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": "إحماء"
+                  },
+                  {
+                    "id": "shoulder-protraction-retraction-2",
+                    "name": "shoulder Protraction/Retraction",
+                    "details": "اجلس بوضعية مستقيمة. ادفع كتفيك إلى الأمام كأنك تصل لشيء بعيد ثم اسحبهم للخلف مع شد خفيف. للحد الاقصى للمفصل.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_protraction_retraction.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-shrugs-2",
+                    "name": "shoulder shrugs",
+                    "details": "ارفع كتفيك باتجاه أذنيك ببطء. حافظ على الوضع لثانيتين ثم اخفضهم ببطء. للحد الاقصى للمفصل.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_shrugs.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-flexion-ge-2",
+                    "name": "ثني الكتف بوضع إزالة الجاذبية",
+                    "details": "ضع يدك المصابة على فخذك واستخدم اليد السليمة لرفع الذراع المصابة ببطء نحو الأمام. استمر بالحركة حتى تصل إلى أقصى مدى مريح، ثم عد إلى الوضع الابتدائي للحد الاقصى للمفصل. في حال وجود طاولة نكرر الحركة ونحافظ على استقامة الكوع لاستهداف الكتف مباشرة.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_flexion_ge.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "assisted-shoulder-flexion-2",
+                    "name": "Assisted shoulder flexion",
+                    "details": "يدعم الجانب المصاب باليد الاخرى من العضلة ثلاثية الرؤوس (فوق الكوع) وترفع لأعلى نقطة قدر الإمكان دون ازعاج أو الم . للحد الاقصى للمفصل.",
+                    "requirements": [],
+                    "warnings": "انتبه يجب أن تعدل اتجاه الابهام للأعلى بعد حمله للذراع",
+                    "executionTime": 90,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "assisted_shoulder_flexion.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "active-shoulder-flexion-2",
+                    "name": "Active shoulder flexion",
+                    "details": "نفس التمرين السابق ولكن دون دعم للذراع.",
+                    "requirements": [],
+                    "warnings": "انتبه ان تبقى الذراع مستقيمة وانتبه هل ترفع كتفك أثناء رفعك لذراعك لا نريد ذلك",
+                    "executionTime": 90,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "assisted_shoulder_flexion.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "النصف الثاني",
+                "exercises": [
+                  {
+                    "id": "stretch-dressing-stick-2",
+                    "name": "Stretch 1: Dressing stick",
+                    "details": "يلتقط عصا بكلتا اليدين ويدفع باليد السليمة اليد المصابة محاولا تمديد الكتف للخلف للحد الاقصى.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "stretch-doorway-2",
+                    "name": "Stretch 2: Doorway",
+                    "details": "تثبت اليد على اطار الباب\nعلى الحائط توضع دعامة حمراء\nعلى المتعالج تثبيت يده والتقدم للأمام حتى يصبح موازي للدعامة.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "stretch-corner-2",
+                    "name": "Stretch 3: corner",
+                    "details": "ثبت الكتف على زاوية حائط أو باب وادفعه للخلف للحد الاقصى.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة الثالثة",
+            "parts": [
+              {
+                "name": "النصف الأول",
+                "exercises": [
+                  {
+                    "id": "warmup-shoulder-circles-3",
+                    "name": "لفات الكتف",
+                    "details": "تحريك الكتفين دائرة للأمام و للخلف (إحماء)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": "إحماء"
+                  },
+                  {
+                    "id": "shoulder-protraction-retraction-3",
+                    "name": "shoulder Protraction/Retraction",
+                    "details": "تمرين شد الكتف والسحب :دفع الكتفين للأمام ثم إعادة الكتفين للخلف للحد الاقصى للمفصل مع تثبيت ل 5 ثوان.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-shrugs-3",
+                    "name": "shoulder shrugs",
+                    "details": "رفع الكتفين باتجاه الأذن ثم خفض الكتفين باتجاه الارض للحد الاقصى للمفصل مع تثبيت ل 5 ثوان.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_shrugs.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-flexion-ge-3",
+                    "name": "ثني الكتف بوضع إزالة الجاذبية",
+                    "details": "ضع يدك على الركبة الكوع مستقيم وادفع الذراع من الكتف سحباً على طول الفخذ للحد الاقصى للمفصل مع خفض سرعة ايقاع الحركة ( خلال 6 ثواني تصل اليد من الركبة الى اعلى الفخذ ) في حال وجود طاولة نكرر الحركة ونحافظ على استقامة الكوع لاستهداف الكتف مباشرة.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_flexion_ge.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "assisted-shoulder-flexion-3",
+                    "name": "Assisted shoulder flexion",
+                    "details": "يدعم الجانب المصاب باليد الاخرى من العضلة ثلاثية الرؤوس (فوق الكوع) وترفع لأعلى نقطة قدر الإمكان دون ازعاج أو الم . للحد الاقصى للمفصل مع تثبيت لأقصى حد من حركة المفصل .",
+                    "requirements": [],
+                    "warnings": "انتبه يجب أن تعدل اتجاه الابهام للأعلى بعد حمله للذراع",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "assisted_shoulder_flexion.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "active-shoulder-flexion-3",
+                    "name": "Active shoulder flexion",
+                    "details": "نفس التمرين السابق ولكن دون دعم للذراع ",
+                    "requirements": [],
+                    "warnings": "انتبه أن تبقى الذراع مستقيمة ( تثبيت ل قدر استطاعة المريض )\nوانتبه هل ترفع كتفك أثناء رفعك لذراعك؟ لا نريد ذلك",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "assisted_shoulder_flexion.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "النصف الثاني",
+                "exercises": [
+                  {
+                    "id": "stretch-dressing-stick-3",
+                    "name": "Stretch 1: Dressing stick",
+                    "details": "يلتقط عصا بكلتا اليدين ويدفع باليد السليمة اليد المصابة محاولا تمديد الكتف للخلف للحد الاقصى.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "stretch-doorway-3",
+                    "name": "Stretch 2: Doorway",
+                    "details": "تثبت اليد على اطار الباب\nعلى الحائط توضع دعامة حمراء\nعلى المتعالج تثبيت يده والتقدم للأمام حتى يصبح موازي للدعامة.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "stretch-corner-3",
+                    "name": "Stretch 3: corner",
+                    "details": "ثبت الكتف على زاوية حائط أو باب وادفعه للخلف للحد الاقصى.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "stage-fingers-intermediate",
+        "difficulty": "intermediate",
+        "sessions": [
+          {
+            "name": "الجلسة الرابعة",
+            "parts": [
+              {
+                "name": "جزء كامل",
+                "exercises": [
+                  {
+                    "id": "shoulder-outward-against-gravity-4-1",
+                    "name": "shoulder-outward-against-gravity",
+                    "details": "السحب باتجاه خارج الجسم بحركة ضد الجاذبية (دون أي دعم أسفل اليد)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_outward_gravity.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-wall-line-4-2",
+                    "name": "shoulder-wall-line",
+                    "details": "رسم خط على الحائط من الأسفل للأعلى بقلم ضد الجاذبية (دون أي دعم)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_wall_line.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-spiral-small-4-3",
+                    "name": "shoulder-spiral-small",
+                    "details": "رسم خط ضمن حدود بصرية على شكل حلزون صغير بالقلم دون دعم",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_spiral_small.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة الخامسة",
+            "parts": [
+              {
+                "name": "جزء كامل",
+                "exercises": [
+                  {
+                    "id": "shoulder-outward-against-gravity-5-1",
+                    "name": "shoulder-outward-against-gravity",
+                    "details": "السحب باتجاه خارج الجسم بحركة ضد الجاذبية (دون أي دعم أسفل اليد)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_outward_gravity.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-wall-line-5-2",
+                    "name": "shoulder-wall-line",
+                    "details": "رسم خط على الحائط من الأسفل للأعلى بقلم ضد الجاذبية (دون أي دعم)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_wall_line.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-spiral-small-5-3",
+                    "name": "shoulder-spiral-small",
+                    "details": "رسم خط ضمن حدود بصرية على شكل حلزون صغير بالقلم دون دعم",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_spiral_small.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة السادسة",
+            "parts": [
+              {
+                "name": "جزء كامل",
+                "exercises": [
+                  {
+                    "id": "shoulder-outward-against-gravity-6-1",
+                    "name": "shoulder-outward-against-gravity",
+                    "details": "السحب باتجاه خارج الجسم بحركة ضد الجاذبية (دون أي دعم أسفل اليد) مع وزن نصف كيلو",
+                    "requirements": ["وزن نصف كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_outward_gravity.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-wall-line-6-2",
+                    "name": "shoulder-wall-line",
+                    "details": "رسم خط على الحائط من الأسفل للأعلى بقلم ضد الجاذبية (دون أي دعم) مع وزن نصف كيلو ",
+                    "requirements": ["وزن نصف كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_wall_line.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-spiral-large-6-3",
+                    "name": "shoulder-spiral-large",
+                    "details": "رسم خط ضمن حدود بصرية ل حلزون كبير بالقلم ضد الجاذبية دون اية دعم مع وزن نصف كيلو",
+                    "requirements": ["وزن نصف كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_spiral_large_weight.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة السابعة",
+            "parts": [
+              {
+                "name": "جزء كامل",
+                "exercises": [
+                  {
+                    "id": "shoulder-outward-against-gravity-7-1",
+                    "name": "shoulder-outward-against-gravity",
+                    "details": "السحب باتجاه الخارج بحركة ضد الجاذبية (دون أي دعم أسفل اليد) مع وزن كيلو",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_outward_gravity.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-wall-line-7-2",
+                    "name": "shoulder-wall-line",
+                    "details": "رسم خط بقلم على الحائط من الأسفل للأعلى ضد الجاذبية (دون أي دعم) مع وزن كيلو",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_wall_line.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-spiral-large-7-3",
+                    "name": "shoulder-spiral-large",
+                    "details": "رسم خط ضمن حدود بصرية ل حلزون كبير بالقلم ضد الجاذبية دون اية دعم مع وزن كيلو",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_spiral_large_weight.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "stage-fingers-advanced",
+        "difficulty": "advanced",
+        "sessions": [
+          {
+            "name": "الجلسة الثامنة",
+            "parts": [
+              {
+                "name": "جزء كامل",
+                "exercises": [
+                  {
+                    "id": "shoulder-rope-wrap-8-1",
+                    "name": "shoulder-rope-wrap",
+                    "details": "لف الحبل بالذراع السليم على الذراع المصاب",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_rope_wrap.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-ball-wall-8-2",
+                    "name": "shoulder-ball-wall",
+                    "details": "تحريك كرة على الحائط من الأسفل للأعلى ضد الجاذبية (دون أي دعم) مع وزن كيلو ادفع الكرة للأعلى و للأسفل على الحائط ببطء",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-laser-circles-8-3",
+                    "name": "shoulder-laser-circles",
+                    "details": "تحريك ضوء ليزر على دعامات بصرية بشكل حلقات من الأصغر للأكبر من الداخل للخارج (2 حلقات) بسرعة حركة  يد المريض",
+                    "requirements": ["حلقات عدد ٢ متدرجة الحجم"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_laser_circles.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-follow-spiral-8-4",
+                    "name": "shoulder-follow-spiral",
+                    "details": "اتبع الخط الحلزوني على الورقة أو الحائط بحركة كرة بطيئة ومنتظمة (عدد حلقات الحلزون ٢) استخدم الذراع المصابة فقط وتتكرر الحركة ",
+                    "requirements": ["عدد حلقات الحلزون ٢"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_follow_spiral.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة التاسعة",
+            "parts": [
+              {
+                "name": "جزء كامل",
+                "exercises": [
+                  {
+                    "id": "shoulder-rope-wrap-9-1",
+                    "name": "shoulder-rope-wrap",
+                    "details": "لف الحبل بالذراع السليم على الذراع المصاب مع وزن كييلو",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_rope_wrap.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-ball-wall-9-2",
+                    "name": "shoulder-ball-wall",
+                    "details": "تحريك كرة على الحائط من الأسفل للأعلى ضد الجاذبية (دون أي دعم) مع وزن كيلو",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-laser-circles-9-3",
+                    "name": "shoulder-laser-circles",
+                    "details": "تحريك ضوء ليزر على دعامات بصرية بشكل حلقات من الأصغر للأكبر من الداخل للخارج (4 حلقات) حلقات عدد ٤ ",
+                    "requirements": ["حلقات عدد ٤ متدرجة الحجم"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_laser_circles.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-follow-spiral-9-4",
+                    "name": "shoulder-follow-spiral",
+                    "details": "تحريك كرة ضمن خطين على شكل حلزون بسيط (٤ لفات مع وزن 1 ك من الداخل للخارج ومن الخارج للداخل) بشكل متواصل دون إنزال اليد",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_follow_spiral.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة العاشرة",
+            "parts": [
+              {
+                "name": "جزء كامل",
+                "exercises": [
+                  {
+                    "id": "shoulder-rope-wrap-10-1",
+                    "name": "shoulder-rope-wrap",
+                    "details": "لف الحبل بالذراع السليم على الذراع المصاب مع وزن كييلو",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_rope_wrap.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-ball-wall-10-2",
+                    "name": "shoulder-ball-wall",
+                    "details": "تحريك كرة على الحائط من الأسفل للأعلى ضد الجاذبية (دون أي دعم) مع وزن كيلو ",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-laser-circles-10-3",
+                    "name": "shoulder-laser-circles",
+                    "details": "تحريك ضوء ليزر على دعامات بصرية بشكل حلقات من الأصغر للأكبر من الداخل للخارج (6-8 حلقات)",
+                    "requirements": ["حلقات عدد ٦-٨ "],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_laser_circles.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "shoulder-follow-spiral-10-4",
+                    "name": "shoulder-follow-spiral",
+                    "details": "تحريك كرة ضمن خطين على شكل حلزون (٦-٨ لفات مع وزن 1 ك من الداخل للخارج ومن الخارج للداخل) بشكل متواصل دون إنزال اليد",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 120,
+                    "restTime": 30,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_follow_spiral.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-wrist",
+    "name": "تمارين المعصم",
+    "imageUrl": "wrist.png",
+    "stages": [
+      {
+        "id": "stage-fingers-beginner",
+        "difficulty": "beginner",
+        "sessions": [
+          {
+            "name": "الجلسة الأولى",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "wrist-flexion-ge-1",
+                    "name": "wrist-flexion-ge",
+                    "details": "ثني المعصم باتجاه الجسم ثم اعادته للمركز(الحركة في المستوى الافقي)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 45,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_flexion_ge.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ext-ge-1",
+                    "name": "wrist-ext-ge",
+                    "details": "ترجيع المعصم للخلف قدر الإمكان  والاعادة للمركز  (أصابع اليد اذا امكن افتحها، إذا بقيت ملتفة استمر في المحاولة)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 45,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_ext_ge.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ulnar-radial-deviation-1",
+                    "name": "wrist-ulnar-radial-deviation",
+                    "details": "كف اليد ملامس للسطح\nتحريك المعصم من جانب إلى جانب دون رفع كف اليد عن السطح",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 45,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_ulnar_radial_deviation.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة الثانية",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "wrist-flexion-ge-2",
+                    "name": "wrist-flexion-ge",
+                    "details": "ثني المعصم باتجاه الجسم ثم اعادته للمركز(الحركة في المستوى الافقي) للحد الاقصى",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 50,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_flexion_ge.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ext-ge-2",
+                    "name": "wrist-ext-ge",
+                    "details": "يرجع المعصم للخلف للحد الاقصى (أصابع اليد اذا امكن افتحها، إذا بقيت ملتفة استمر في المحاولة)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 50,
+                    "restTime": 10,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ulnar-radial-deviation-2",
+                    "name": "wrist-ulnar-radial-deviation",
+                    "details": "تحريك المعصم من جانب إلى جانب للحد الاقصى",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 50,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_ulnar_radial_deviation.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة الثالثة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "wrist-flexion-ge-3",
+                    "name": "wrist-flexion-ge",
+                    "details": "ثني المعصم باتجاه الجسم ثم اعادته للمركز(الحركة في المستوى الافقي) للحد الاقصى مع تثبيت ل 5 ثوان",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 50,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_flexion_ge.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ext-ge-3",
+                    "name": "wrist-ext-ge",
+                    "details": "يرجع المعصم للخلف للحد الاقصى مع تثبيت ل 5 ثوان",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 50,
+                    "restTime": 10,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ulnar-radial-deviation-3",
+                    "name": "wrist-ulnar-radial-deviation",
+                    "details": "تحريك المعصم من جانب إلى جانب للحد الاقصى مع تثبيت ل 5 ثوان",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 50,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_ulnar_radial_deviation.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "stage-fingers-intermediate",
+        "difficulty": "intermediate",
+        "sessions": [
+          {
+            "name": "الجلسة الرابعة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "warmup-wrist-flexion-ag-4",
+                    "name": "إحماء",
+                    "details": "تمديد المعصم برفق للخلف \nالاستمرار لبضع ثواني في هذه الوضعية \nثم ثني المعصم للأمام للحصول على تمدد لطيف (إحماء)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 30,
+                    "restTime": 10,
+                    "media": [],
+                    "notes": "إحماء"
+                  },
+                  {
+                    "id": "wrist-flexion-ag-4",
+                    "name": "wrist-flexion-ag",
+                    "details": "الوضعية : الساعد في وضعية استلقاء أو راحة اليد للأعلى\nثبت معصمك على جانب الطاولة أو السطح وحاول ثنيها للأعلى",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_flexion_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ext-ag-4",
+                    "name": "wrist-ext-ag",
+                    "details": "الوضعية : كف اليد للاسفل وسنزيح اليد للأعلى والمعصم للخلف",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_ext_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ulnar-radial-deviation-ag-4",
+                    "name": "wrist-ulnar-radial-deviation-ag",
+                    "details": "الكوع مستند على طاولة ،الساعد في الهواء\nحرك اليد/المعصم لليمين واليسار ( مثل مرحباً)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_ulnar_radial_deviation_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-circumduction-ag-4",
+                    "name": "wrist-circumduction-ag",
+                    "details": "تحريك المعصم في دائرة بكل الاتجاهات.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_circumduction_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-supination-pronation-4",
+                    "name": "wrist-supination-pronation",
+                    "details": "قف أو اجلس \n ضع ذراعك بجانبك مع ثني الكوع بزاوية 90 درجة\n مع وجه راحة اليد لأسفل\nدور ساعدك بحيث يكون راحة يدك متجهة لأعلى ثم لأسفل",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_supination_pronation.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة الخامسة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "warmup-wrist-flexion-ag-5",
+                    "name": "إحماء",
+                    "details": "تمديد المعصم برفق للخلف \nالاستمرار لبضع ثواني في هذه الوضعية \nثم ثني المعصم للأمام للحصول على تمدد لطيف (إحماء)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 30,
+                    "restTime": 10,
+                    "media": [],
+                    "notes": "إحماء"
+                  },
+                  {
+                    "id": "wrist-flexion-ag-weight-5",
+                    "name": "wrist-flexion-ag",
+                    "details": "الوضعية : الساعد في وضعية استلقاء أو راحة اليد للأعلى\nستعلق معصمك على جانب الطاولة أو السطح وحاول ثنيها للأعلى",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_flexion_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ext-ag-5",
+                    "name": "wrist-ext-ag",
+                    "details": "الوضعية : كف اليد للاسفل وسنزيح اليد للأعلى والمعصم للخلف",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_ext_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ulnar-radial-deviation-ag-5",
+                    "name": "wrist-ulnar-radial-deviation-ag",
+                    "details": "الكوع مستند على الطاولة \n مستند على طاولة ،الساعد في الهواء \nحرك اليد/المعصم لليمين واليسار ( مثل مرحباً)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_ulnar_radial_deviation_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-circumduction-ag-5",
+                    "name": "wrist-circumduction-ag",
+                    "details": "تحريك المعصم في دائرة بكل الاتجاهات.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_circumduction_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-supination-pronation-5",
+                    "name": "wrist-supination-pronation",
+                    "details": "قف أو اجلس مع وضع ذراعك بجانبك مع ثني الكوع بزاوية 90 درجة، مع توجيه راحة اليد لأسفل.\n بتدوير ساعدك بحيث يكون راحة يدك متجهة لأعلى ثم لأسفل.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_supination_pronation.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة السادسة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "warmup-wrist-flexion-ag-6",
+                    "name": "إحماء",
+                    "details": "تمديد المعصم برفق للخلف \nالاستمرار لبضع ثواني في هذه الوضعية \nثم ثني المعصم للأمام للحصول على تمدد لطيف (إحماء)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 30,
+                    "restTime": 10,
+                    "media": [],
+                    "notes": "إحماء"
+                  },
+                  {
+                    "id": "wrist-flexion-ag-6",
+                    "name": "wrist-flexion-ag",
+                    "details": "الوضعية : الساعد في وضعية استلقاء أو راحة اليد للأعلى\nستعلق معصمك على جانب الطاولة أو السطح وحاول ثنيها للأعلى",
+                    "requirements": ["وزن نصف كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_flexion_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ext-ag-6",
+                    "name": "wrist-ext-ag",
+                    "details": "الوضعية : كف اليد للاسفل وسنزيح اليد للأعلى والمعصم للخلف",
+                    "requirements": ["وزن نصف كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_ext_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ulnar-radial-deviation-ag-6",
+                    "name": "wrist-ulnar-radial-deviation-ag",
+                    "details": "الكوع مثبت عليه وزن نصف كيلو \n مستند على طاولة ،الساعد في الهواء \nحرك اليد/المعصم لليمين واليسار ( مثل مرحباً)",
+                    "requirements": ["وزن نصف كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-circumduction-ag-6",
+                    "name": "wrist-circumduction-ag",
+                    "details": "تحريك المعصم في دائرة بكل الاتجاهات.",
+                    "requirements": ["وزن نصف كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_circumduction_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-supination-pronation-6",
+                    "name": "wrist-supination-pronation",
+                    "details": "قف أو اجلس مع وضع ذراعك بجانبك مع ثني الكوع بزاوية 90 درجة، مع توجيه راحة اليد لأسفل.\n بتدوير ساعدك بحيث يكون راحة يدك متجهة لأعلى ثم لأسفل.",
+                    "requirements": ["وزن نصف كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_supination_pronation.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة السابعة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "warmup-wrist-flexion-ag-7",
+                    "name": "إحماء",
+                    "details": "تمديد المعصم برفق للخلف \nالاستمرار لبضع ثواني في هذه الوضعية \nثم ثني المعصم للأمام للحصول على تمدد لطيف (إحماء)",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 30,
+                    "restTime": 10,
+                    "media": [],
+                    "notes": "إحماء"
+                  },
+                  {
+                    "id": "wrist-flexion-ag-weight-7",
+                    "name": "wrist-flexion-ag",
+                    "details": "الوضعية : الساعد في وضعية استلقاء أو راحة اليد للأعلى\nستعلق معصمك على جانب الطاولة أو السطح وحاول ثنيها للأعلى",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ext-ag-7",
+                    "name": "wrist-ext-ag",
+                    "details": "الوضعية : كف اليد للاسفل وسنزيح اليد للأعلى والمعصم للخلف",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_ext_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-ulnar-radial-deviation-ag-7",
+                    "name": "wrist-ulnar-radial-deviation-ag",
+                    "details": "الكوع مثبت عليه وزن كيلو \n مستند على طاولة ،الساعد في الهواء \nحرك اليد/المعصم لليمين واليسار ( مثل مرحباً)",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-circumduction-ag-7",
+                    "name": "wrist-circumduction-ag",
+                    "details": "تحريك المعصم في دائرة بكل الاتجاهات.",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_circumduction_ag.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-supination-pronation-7",
+                    "name": "wrist-supination-pronation",
+                    "details": "قف أو اجلس مع وضع ذراعك بجانبك مع ثني الكوع بزاوية 90 درجة، مع توجيه راحة اليد لأسفل.\n بتدوير ساعدك بحيث يكون راحة يدك متجهة لأعلى ثم لأسفل.",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_supination_pronation.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "stage-fingers-advanced",
+        "difficulty": "advanced",
+        "sessions": [
+          {
+            "name": "الجلسة الثامنة",
+            "parts": [
+              {
+                "name": "النصف الأول",
+                "exercises": [
+                  {
+                    "id": "wrist-rotation-8-1",
+                    "name": "wrist-rotation",
+                    "details": "تدوير المعصم من خلال سحب وزن 2 كغ بواسطة حبل عادي من مسافة 2 متر",
+                    "requirements": ["وزن 2 كغ", "حبل عادي"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_rotation_rope.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-up-down-band-8-2",
+                    "name": "wrist-up-down-band",
+                    "details": "الوضعية : الذراع مثبتة على طاولة او سطح و المعصم متدلي عن السطح تحريك المعصم للاعلى و الاسفل اثناء شد  رباط مطاطي قاعدته مثبتة بقدم المريض",
+                    "requirements": ["رباط مطاطي"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_up_down_band.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-racket-8-3",
+                    "name": "wrist-racket",
+                    "details": "ضرب الكرة براكيت مثبت عليه وزن نصف كغ",
+                    "requirements": ["وزن نصف كغ"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_racket.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-roll-8-4",
+                    "name": "wrist-roll",
+                    "details": "لف رول قماشي",
+                    "requirements": ["قماش"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_roll.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-mesh-8-5",
+                    "name": "wrist-mesh",
+                    "details": "تدوير مشط مثبت عليه نصف متر من الشيك شاكش",
+                    "requirements": ["مشط", "نصف متر من الشيك شاكش "],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة التاسعة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "wrist-rotation-9-1",
+                    "name": "wrist-rotation",
+                    "details": "تدوير المعصم من خلال سحب وزن 3 كغ بواسطة حبل مطاطي طري من مسافة 2 متر",
+                    "requirements": ["وزن 3 كغ", "حبل مطاطي طري"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_rotation_rope.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-up-down-band-9-2",
+                    "name": "wrist-up-down-band",
+                    "details": "الوضيعية : الذراع مثبتة على طاولة او سطح و المعصم متدلي عن السطح تحريك المعصم للاعلى و الاسفل  اثناء سحب  وزن  نصف كيلو",
+                    "requirements": ["وزن نصف كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-racket-9-3",
+                    "name": "wrist-racket",
+                    "details": "ضرب الكرة براكيت مثبت عليه وزن 1كغ",
+                    "requirements": ["وزن 1كغ"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_racket.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-roll-9-4",
+                    "name": "wrist-roll",
+                    "details": "لف سندويس اسفنجي مع لبس وزن نصف كغ في اليد المصابة",
+                    "requirements": ["اسفنجي", "وزن نصف كغ"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_roll.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-mesh-9-5",
+                    "name": "wrist-mesh",
+                    "details": "تدوير مشط مع زيادة مسافة خط الشيك شاك قاسي و عريض ل 1متر و(  قبضة كبيرة  للمقبض )",
+                    "requirements": ["مشط", "قبضة كبيرة"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة العاشرة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "wrist-rotation-10-1",
+                    "name": "wrist-rotation",
+                    "details": "تدوير المعصم من خلال سحب وزن 3 كغ بواسطة حبل مطاطي قاسي من مسافة 2 متر",
+                    "requirements": ["وزن 3 كغ", "حبل مطاطي قاسي"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-up-down-band-10-2",
+                    "name": "wrist-up-down-band",
+                    "details": "الوضيعية : الذراع مثبتة على طاولة او سطح و المعصم متدلي عن السطح تحريك المعصم للاعلى و الاسفل من خلال سحب  وزن كيلو  باليد",
+                    "requirements": ["وزن كيلو"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-racket-10-3",
+                    "name": "wrist-racket",
+                    "details": "ضرب الكرة براكيت مثبت عليه وزن 1كغ",
+                    "requirements": ["وزن 1كغ"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_racket.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-roll-10-4",
+                    "name": "wrist-roll",
+                    "details": "لف سندويس اسفنجي مع لبس وزن نصف كغ في اليد المصابة",
+                    "requirements": ["اسفنجي", "وزن نصف كغ"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "wrist_roll.jpg"
+                      }
+                    ],
+                    "notes": ""
+                  },
+                  {
+                    "id": "wrist-mesh-10-5",
+                    "name": "wrist-mesh",
+                    "details": "تدوير مشط مع زيادة مسافة خط عريض  الشيك شاك قاسي ل 1متر و(  القبضة كبيرة  )",
+                    "requirements": ["مشط", "قبضة كبيرة"],
+                    "warnings": "",
+                    "executionTime": 90,
+                    "restTime": 15,
+                    "media": [],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-fingers-grip",
+    "name": "تمارين القبضة والأصابع",
+    "imageUrl": "fingers_grip.png",
+    "stages": [
+      {
+        "id": "stage-fingers-beginner",
+        "difficulty": "beginner",
+        "sessions": [
+          {
+            "name": "الجلسة الأولى",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "fingers-abduction-adduction-1",
+                    "name": "fingers-abduction-adduction",
+                    "details": " يعرض أمام المتعالج فيديو بسرعة متوسط لدعامة بصرية تتحرك على خط مستقيم.  حرك كل اصبع بالتتالي من اصابع يدك مع  سرعة الدائرة امامك. \nلكل اصبع",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 100,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "video",
+                        "url": "fingers_abduction_adduction.mp4"
+                      }
+                    ],
+                    "notes": "إيقاع بطيء، عيون مفتوحة/مغلقة، الإحساس بالحركة وتنفيذها والعيون مغلقة"
+                  },
+                  {
+                    "id": "fingers-flexion-extension-1",
+                    "name": "fingers-flexion-extension",
+                    "details": "يعرض أمام المتعالج فيديو بسرعة متوسط لدعامة بصرية تتحرك للأعلى والاسفل.  حرك كل اصبع بالتتالي من اصابع يدك مع  سرعة الدائرة امامك. \nلكل اصبع",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 100,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "video",
+                        "url": "fingers_flexion_extension.mp4"
+                      }
+                    ],
+                    "notes": "إيقاع بطيء، عيون مفتوحة/مغلقة، الإحساس بالحركة وتنفيذها والعيون مغلقة"
+                  },
+                  {
+                    "id": "fingers-circular-motion-1",
+                    "name": "fingers-circular-motion",
+                    "details": "يعرض أمام المتعالج فيديو بسرعة متوسط لدعامة بصرية تتحرك بشكل دائرة شبه مكتمل.  حرك كل اصبع بالتتالي من اصابع يدك مع  سرعة الدائرة امامك. \nلكل اصبع",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 16,
+                    "restTime": 10,
+                    "media": [
+                      { "type": "video", "url": "fingers_circular_motion.mp4" }
+                    ],
+                    "notes": "إيقاع بطيء، عيون مفتوحة/مغلقة، الإحساس بالحركة وتنفيذها والعيون مغلقة"
+                  },
+                  {
+                    "id": "book-mark-1",
+                    "name": "book-mark",
+                    "details": "شاهد الفيديو ونفذ التمرين",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 365,
+                    "restTime": 10,
+                    "media": [{ "type": "video", "url": "book_mark.mp4" }],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة الثانية",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "fingers-abduction-adduction-2",
+                    "name": "fingers-abduction-adduction",
+                    "details": "المدة ٢٥ ثا، عدد المرات ١٣.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 25,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "video",
+                        "url": "fingers_abduction_adduction.mp4"
+                      }
+                    ],
+                    "notes": "إيقاع بطيء"
+                  },
+                  {
+                    "id": "fingers-flexion-extension-2",
+                    "name": "fingers-flexion-extension",
+                    "details": "المدة ٢٣ ثا، إيقاع متوسط، ١٥ مرة صعود وهبوط.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 23,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "video",
+                        "url": "fingers_flexion_extension.mp4"
+                      }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "fingers-circular-motion-2",
+                    "name": "fingers-circular-motion",
+                    "details": "المدة ١٩ ثا، ١٠ مرات.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 19,
+                    "restTime": 10,
+                    "media": [
+                      { "type": "video", "url": "fingers_circular_motion.mp4" }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "tulip-2",
+                    "name": "tulip",
+                    "details": "شاهد الفيديو ونفذ التمرين",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 365,
+                    "restTime": 10,
+                    "media": [{ "type": "video", "url": "tulip.mp4" }],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة الثالثة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "fingers-abduction-adduction-3",
+                    "name": "fingers-abduction-adduction",
+                    "details": "المدة ٢٧ ثا، ١٥ مرة.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 27,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "video",
+                        "url": "fingers_abduction_adduction.mp4"
+                      }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "fingers-flexion-extension-3",
+                    "name": "fingers-flexion-extension",
+                    "details": "المدة ٢٥ ثا، إيقاع سريع، عدد المرات ١٧.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 25,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "video",
+                        "url": "fingers_flexion_extension.mp4"
+                      }
+                    ],
+                    "notes": "إيقاع سريع"
+                  },
+                  {
+                    "id": "fingers-circular-motion-3",
+                    "name": "fingers-circular-motion",
+                    "details": "٢١ ثا، ١٣ مرة.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 21,
+                    "restTime": 10,
+                    "media": [
+                      { "type": "video", "url": "fingers_circular_motion.mp4" }
+                    ],
+                    "notes": "إيقاع سريع"
+                  },
+                  {
+                    "id": "origami-leaf-3",
+                    "name": "origami-leaf",
+                    "details": "شاهد الفيديو ونفذ التمرين",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 365,
+                    "restTime": 10,
+                    "media": [{ "type": "video", "url": "origami_leaf.mp4" }],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "stage-fingers-intermediate",
+        "difficulty": "intermediate",
+        "sessions": [
+          {
+            "name": "الجلسة الرابعة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "fingers-figure-abduction-adduction-4-1",
+                    "name": "fingers-figure-abduction-adduction",
+                    "details": "ضع يدك على سطح طاولة. قم بفتح الأصابع تبعيد وحافظ على الوضعية لمدة ٣ ثا ثم أغلق الأصابع تقريب وحافظ على الحبوب بين الأصابع.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 30,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "fingers_abduction_adduction1.jpg"
+                      },
+                      {
+                        "type": "image",
+                        "url": "fingers_abduction_adduction2.jpg"
+                      }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "fingers-pair-movement-4-2",
+                    "name": "fingers-pair-movement",
+                    "details": "ضع سوار على كل اصبعين بالشكل التالي: \nابهام+خنصر، \nسبابة+بنصر، \nوسطى+ابهام، \n سبابة+خنصر. \nحرك الاصبعين مع بعض بناء على دوائر بصرية على ورقة متدرجة المسافة بين النقاط. عند كل زوج نقاط يحافظ على الوضعية لمدة ٥ ثا. كل مجموعة ثنائية لها ٥ تمارين: ٣ تبعيد، ٢ تقريب.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 40,
+                    "restTime": 10,
+                    "media": [
+                      { "type": "image", "url": "fingers_pair_movement.jpg" },
+                      { "type": "image", "url": "fingers_pair_movement2.jpg" }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "fingers-separation-4-3",
+                    "name": "fingers-separation",
+                    "details": "تحريك الأصابع وفقا لدعامة بصرية من الخارج للداخل وبالعكس. ابدأ بتحريك الاصبعين سوية ببطئ وأشعر بالحركة. السبابة والوسطى (١٥ ثا) ثم انتقل لتحريك كل اصبع على انفراد (١٥ ثا): الإبهام، السبابة، الوسطى، الخنصر. حلزون بسيط ١٥ ثانية.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 57,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "shoulder_spiral_large_weight.jpg"
+                      }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "origami-star-4-4",
+                    "name": "origami star",
+                    "details": "تمرين نجمة الأوريغامي.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 20,
+                    "restTime": 10,
+                    "media": [{ "type": "video", "url": "origami_star.mp4" }],
+                    "notes": "تمرين إضافي"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة الخامسة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "fingers-figure-abduction-adduction-5-1",
+                    "name": "fingers-figure-abduction-adduction",
+                    "details": "حافظ على الوضعية لمدة 5 ثا.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 30,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "fingers_abduction_adduction1.jpg"
+                      },
+                      {
+                        "type": "image",
+                        "url": "fingers_abduction_adduction2.jpg"
+                      }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "fingers-pair-movement-5-2",
+                    "name": "fingers-pair-movement",
+                    "details": "عند كل زوج نقاط يحافظ على الوضعية لمدة 7ثا.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 35,
+                    "restTime": 10,
+                    "media": [
+                      { "type": "image", "url": "fingers_pair_movement.jpg" }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "fingers-separation-5-3",
+                    "name": "fingers-separation",
+                    "details": "فصل وجمع أصابع السبابة والوسطى (18 ثا) ثم انتقل لتحريك كل اصبع على انفراد (18 ثا). حلزون بسيط 20 ثانية، حلزون معقد 33 ثانية.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 89,
+                    "restTime": 10,
+                    "media": [
+                      { "type": "image", "url": "shoulder_spiral_small.jpg" },
+                      {
+                        "type": "image",
+                        "url": "shoulder_spiral_large_weight.jpg"
+                      }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "kusduma-5-4",
+                    "name": "kusduma",
+                    "details": "شاهد الفيديو ونفذ التمرين",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 365,
+                    "restTime": 10,
+                    "media": [{ "type": "video", "url": "kusduma.mp4" }],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة السادسة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "fingers-figure-abduction-adduction-6-1",
+                    "name": "fingers-figure-abduction-adduction",
+                    "details": "حافظ على الوضعية لمدة ٧ ثا.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 30,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "fingers_abduction_adduction1.jpg"
+                      },
+                      {
+                        "type": "image",
+                        "url": "fingers_abduction_adduction2.jpg"
+                      }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "fingers-pair-movement-6-2",
+                    "name": "fingers-pair-movement",
+                    "details": "جمع اصبعين عند كل زوج نقاط يحافظ على الوضعية لمدة 9 ثا.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 36,
+                    "restTime": 10,
+                    "media": [
+                      { "type": "image", "url": "fingers_pair_movement.jpg" }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "fingers-separation-6-3",
+                    "name": "fingers-separation",
+                    "details": "فصل وجمع أصابع السبابة والوسطى (20ثا) ثم انتقل لتحريك كل اصبع على انفراد (20ثا). الحلزون البسيط 20 ثانية، الحلزون المعقد 33 ثانية.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 73,
+                    "restTime": 10,
+                    "media": [
+                      { "type": "image", "url": "shoulder_spiral_small.jpg" },
+                      {
+                        "type": "image",
+                        "url": "shoulder_spiral_large_weight.jpg"
+                      }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "butterfly-6-4",
+                    "name": "butterfly",
+                    "details": "شاهد الفيديو ونفذ التمرين",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 365,
+                    "restTime": 10,
+                    "media": [{ "type": "video", "url": "butterfly.mp4" }],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة السابعة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "fingers-figure-abduction-adduction-7-1",
+                    "name": "figure abduction & adduction",
+                    "details": "ضع يدك على سطح /طاولة حافظ على الوضعية لمدة ٩ ثا.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 30,
+                    "restTime": 10,
+                    "media": [
+                      {
+                        "type": "image",
+                        "url": "fingers_abduction_adduction1.jpg"
+                      },
+                      {
+                        "type": "image",
+                        "url": "fingers_abduction_adduction2.jpg"
+                      }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "fingers-pair-movement-7-2",
+                    "name": "fingers-pair-movement",
+                    "details": "جمع اصبعين عند كل زوج نقاط يحافظ على الوضعية لمدة ١٢ ثا.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 36,
+                    "restTime": 10,
+                    "media": [
+                      { "type": "image", "url": "fingers_pair_movement.jpg" }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "fingers-separation-7-3",
+                    "name": "fingers-separation",
+                    "details": "فصل وجمع أصابع السبابة والوسطى (٢١ثا) ثم انتقل لتحريك كل اصبع على انفراد (٢١ثا). حلزون بسيط 25 ثانية بسرعة بطيئة وحجم كبير، حلزون معقد 38 ثانية بسرعة بطيئة وحجم كبير.",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 84,
+                    "restTime": 10,
+                    "media": [
+                      { "type": "image", "url": "shoulder_spiral_small.jpg" },
+                      {
+                        "type": "image",
+                        "url": "shoulder_spiral_large_weight.jpg"
+                      }
+                    ],
+                    "notes": "إيقاع متوسط"
+                  },
+                  {
+                    "id": "origami-box-7-4",
+                    "name": "origami-box",
+                    "details": "شاهد الفيديو ونفذ التمرين",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 365,
+                    "restTime": 10,
+                    "media": [{ "type": "video", "url": "origami_box.mp4" }],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "stage-fingers-advanced",
+        "difficulty": "advanced",
+        "sessions": [
+          {
+            "name": "الجلسة الثامنة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "grip-squeeze-sponge-8-1",
+                    "name": "grip-squeeze-sponge",
+                    "details": "القبض على اسفنجة لإخراج الماء على المريض عصر اسفنجة لتخرج اكبر كمية من الماء. كرر التمرين ٨ مرات في ٣ ل ٥ مجموعات.",
+                    "requirements": ["اسفنجة"],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 20,
+                    "media": [{ "type": "image", "url": "grip_sponge.jpg" }],
+                    "notes": "قبض"
+                  },
+                  {
+                    "id": "grip-extension-band-8-2",
+                    "name": "grip-extension-band",
+                    "details": "تمديد الأصابع بشريط مطاطي ضع شريط مطاطي محيط بكل الاصابع و قم بتمديد الاصابع لاقصى قدر ممكن. يعاد التمرين ٨ مرات في٣ ل٥ مجموعات.",
+                    "requirements": ["شريط مطاطي"],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 20,
+                    "media": [{ "type": "image", "url": "grip_band.jpg" }],
+                    "notes": "بسط"
+                  },
+                  {
+                    "id": "grip-separation-band-8-3",
+                    "name": "grip-separation-band",
+                    "details": "فصل الأصابع بشريط مطاطي ضع على كل اصبعين متجاورين شريط مطاطي و قم بابعاد الاصبعين عن بعضهما اقصى درجة ممكنة. يعاد التمرين ٨ مرات في ٣ل ٥ مجموعات.",
+                    "requirements": ["شريط مطاطي"],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 20,
+                    "media": [],
+                    "notes": "فصل"
+                  },
+                  {
+                    "id": "5petals-8-4",
+                    "name": "5 petals",
+                    "details": "شاهد الفيديو ونفذ التمرين",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 365,
+                    "restTime": 10,
+                    "media": [{ "type": "video", "url": "5petals.mp4" }],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة التاسعة",
+            "parts": [
+              {
+                "name": "تمارين القبضة والأصابع (قبض، بسط، فصل)",
+                "exercises": [
+                  {
+                    "id": "grip-squeeze-ball-9-1",
+                    "name": "grip-squeeze-ball",
+                    "details": "قبضة كرة اسفنجية متوسطة القساوة على المريض اعصر بيدك كرة اسفنجية متوسطة القساوة لاقصى درجة ممكنة حتى يتغير شكل الكرة. حاول التثبيت ل٣ ثواني في هذة الوضعية. اعد التمرين ل٨ مرات في ٣-٥ مجموعات.",
+                    "requirements": ["كرة اسفنجية"],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 20,
+                    "media": [{ "type": "image", "url": "grip_sponge.jpg" }],
+                    "notes": "قبض"
+                  },
+                  {
+                    "id": "grip-extension-thick-band-9-2",
+                    "name": "grip-extension-thick-band",
+                    "details": "بسط الأصابع بشريط مطاطي أثخن ضعه حول اصابعك و ابسطها لاقصى درجة ممكنة حتى تدخل الشريط المطاطي في قارورة كبيرة (حاول التثبيت ل٣ ثواني في هذة الوضعية). اعد التمرين ٨ مرات في ٣-٥ مجموعات.",
+                    "requirements": ["شريط مطاطي أثخن"],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 20,
+                    "media": [{ "type": "image", "url": "grip_band.jpg" }],
+                    "notes": "بسط"
+                  },
+                  {
+                    "id": "grip-separation-scissors-9-3",
+                    "name": "grip-separation-scissors",
+                    "details": "فصل الأصابع باستخدام مقص ادخل باصبعيك الابهام و السبابة مقصا و قم بقص ورق ملفوف في شكل رول الى قطع صغيرة. كرر القص ٨ مرات في كل اصبع و اعد التمرين ٣ -٥ مرات.",
+                    "requirements": ["مقص", "ورق رول"],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 20,
+                    "media": [{ "type": "image", "url": "grip_scissors.jpg" }],
+                    "notes": "فصل"
+                  },
+                  {
+                    "id": "box17-9-4",
+                    "name": "box17",
+                    "details": "شاهد الفيديو ونفذ التمرين",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 365,
+                    "restTime": 10,
+                    "media": [{ "type": "video", "url": "box17.mp4" }],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "الجلسة العاشرة",
+            "parts": [
+              {
+                "name": "الجزء الكامل",
+                "exercises": [
+                  {
+                    "id": "grip-squeeze-pins-10-1",
+                    "name": "grip-squeeze-pins",
+                    "details": "قبض بينس (مشبك) امسك بيدك بينس و قم بالضغط عليه حاول ان تجعل يدي البينس تتلامسا. اعد التمرين ٨ مرات في ٣-٥ مجموعات خذ استراحة بين المجموعة و الاخرى ل١ د.",
+                    "requirements": ["بينس"],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 20,
+                    "media": [],
+                    "notes": "قبض"
+                  },
+                  {
+                    "id": "grip-extension-band-10-2",
+                    "name": "grip-extension-band",
+                    "details": "بسط الأصابع بشريط مطاطي ارتدي بيدك و بكل اصبع الرباط المطاطي. قم ببسط الاصابع و فتح اليد لاقصى مدى. اعد التمرين ٨ مرات في ٣ -٥ مجموعات و خذ راحة ١د بين كل مجموعة.",
+                    "requirements": ["شريط مطاطي"],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 20,
+                    "media": [{ "type": "image", "url": "grip_band.jpg" }],
+                    "notes": "بسط"
+                  },
+                  {
+                    "id": "grip-squeeze-thumb-fingers-10-3",
+                    "name": "grip-squeeze-thumb-fingers",
+                    "details": "قبض كرة اسفنجية بين الإبهام وكل إصبع امسك كرة اسفنجية بين اصبع الابهام و السبابة و اعصرها لاقصى درجة ممكنة. كرر التمرين على كل الاصابع (ابهام سبابة، ابهام وسطى، ابهام خنصر، ابهام بنصر). لكل اصبع ٨ عدات و كرر التمرين ٣ - ٥ مجموعات بين مل مجموعة دقيقة راحة.",
+                    "requirements": ["كرة اسفنجية"],
+                    "warnings": "",
+                    "executionTime": 60,
+                    "restTime": 20,
+                    "media": [],
+                    "notes": "قبض"
+                  },
+                  {
+                    "id": "origami-rose-10-4",
+                    "name": "origami-rose",
+                    "details": "شاهد الفيديو ونفذ التمرين",
+                    "requirements": [],
+                    "warnings": "",
+                    "executionTime": 365,
+                    "restTime": 10,
+                    "media": [{ "type": "video", "url": "origami_rose.mp4" }],
+                    "notes": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
